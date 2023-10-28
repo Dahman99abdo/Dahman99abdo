@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on a project of agricultural robot
 - 📫 How to reach me( a.dahman@univ-boumerdes.dz )
-
+This modest code shows one of the methods used in programming a self-controlled agricultural robot that moves with two motors, a four-wheel drive that orbits it self, several sensors including compass, ultrasonic wave sensor and spin speed sensor have been used.
 <!---
 Dahman99abdo/Dahman99abdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
